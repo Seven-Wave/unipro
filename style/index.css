@@ -247,9 +247,7 @@ body {
         margin-bottom: 25px;
         height: 182px;
     }
-    .big {
-        display: none;
-    }
+    
     
 
     p.main__open {
@@ -266,6 +264,9 @@ body {
         max-width: 414px;
         padding: 0 10px;
     }
+	.big {
+		display: none;
+	}
 
     
     .block {
